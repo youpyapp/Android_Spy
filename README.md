@@ -18,7 +18,6 @@ For business inquiries hola@jiveal.com
 #### Mobile Number, Network provider, UUID, SDK version, android version, etc.
 #### Video Uploads
 #### Live camera view
-#### Live screen recording
 #### Take screenshot remotely
 #### Take Photo remotely
 #### Take Video remotely
