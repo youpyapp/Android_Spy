@@ -2,7 +2,7 @@
 
 
 Project moved to https://youpy.io  
-For business inquiries hola@jiveal.com
+For business inquiries hola@jiveal.com  
 ![Alt text](https://youpy.io/wp-content/uploads/2019/09/menurectobueno.png)
 ## Features
 #### App Client
