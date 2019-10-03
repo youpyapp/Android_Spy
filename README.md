@@ -7,11 +7,12 @@ Project moved to https://youpy.io
 ## Features
 #### App Client
 #### Read incoming messages from WhatsApp, Facebook, Line, Telegram and Instagram
+#### WhatsApp media (Videos, Audios, Photos, Videos)
 #### Upload Contacts
 #### Words Alerts
-#### Upload Call Register
-#### Upload SMS Messages
-#### Upload Photos
+#### Call Register
+#### SMS Messages
+#### Photos
 #### App Usage Stats
 #### Current Location
 #### Mobile Number, Network provider, UUID, SDK version, android version, etc.
