@@ -2,8 +2,8 @@
 
 
 Project moved to https://youpy.io
-
-
+For business inquiries hola@jiveal.com
+![Alt text](https://youpy.io/wp-content/uploads/2019/09/menurectobueno.png)
 ## Features
 #### App Client
 #### Read incoming messages from WhatsApp, Facebook, Line, Telegram and Instagram
@@ -32,4 +32,4 @@ Project moved to https://youpy.io
 #### Explore files remotely and extract
 
 See the proyect -> https://youpy.io
-For business inquiries hola@jiveal.com
+
