@@ -6,7 +6,8 @@ For business inquiries hola@jiveal.com
 ![Alt text](https://youpy.io/wp-content/uploads/2019/09/menurectobueno.png)
 ## Features
 #### App Client
-#### Read incoming messages from WhatsApp, Facebook, Line, Telegram and Instagram
+#### Read incoming and outcoming messages from WhatsApp without root and without use notifications
+#### Read incoming messages from Facebook, Line, Telegram and Instagram
 #### WhatsApp media (Videos, Audios, Photos, Videos)
 #### Upload Contacts
 #### Words Alerts
